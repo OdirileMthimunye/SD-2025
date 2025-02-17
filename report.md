@@ -1,0 +1,1 @@
+I created 3 files namely student-info.txt, report.md and index.html. I added the required information into the resoective files. I put the files onto GitHub and deployed the index.html file to GitHub Pages.
